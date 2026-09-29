@@ -80,7 +80,7 @@ This demonstrated that the supplied forwarded IP value influenced the observed a
 
 The test metadata records the relevant request information, including the target host, request path, tested `X-Forwarded-For` value, and resulting HTTP status.
 
-![Request Metadata](./screenshots/03-xff-metadata.png)
+![Request Metadata](./screenshots/03-origin-404.png)
 
 ---
 
